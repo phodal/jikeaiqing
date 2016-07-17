@@ -1,5 +1,13 @@
 # 《极客爱情1》
 
+作者：[@花仲马](http://weibo.com/hug8217)
+
+微信公众号：白米粥（yiwanbaimizhou）无节操地文艺，有节操地浪
+
+![QRCode](./qrcode.jpg)
+
+下载: [PDF格式](http://jikeaiqing.phodal.com/ebook.pdf)、 [EPUB格式](http://jikeaiqing.phodal.com/ebook.epub)、 [Mobi格式](http://jikeaiqing.phodal.com/ebook.mobi)
+
 目录：
 
 *   [序](http://jikeaiqing.phodal.com/#序)
